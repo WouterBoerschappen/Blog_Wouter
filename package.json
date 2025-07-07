@@ -1,0 +1,9 @@
+{
+  "name": "boerschappen-blog",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "contentful": "^9.1.10",
+    "fs-extra": "^11.1.1"
+  }
+}
